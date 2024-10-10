@@ -1,7 +1,8 @@
 # aws_utils
 
-awsdocs/aws-doc-sdk-examples repo [https://github.com/awsdocs/aws-doc-sdk-examples]
+The reference repo is aws-doc-sdk-examples - https://github.com/awsdocs/aws-doc-sdk-examples
 the python/ directory in it is picked and renamed as aws_lib/
 
-## TO run the Utility
-bash run_util.sh command will run the aws_lib/aws_util.py
+## How to run the utility
+bash run_util.sh
+This command will run the aws_lib/aws_util.py
