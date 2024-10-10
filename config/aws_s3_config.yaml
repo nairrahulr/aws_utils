@@ -1,0 +1,9 @@
+# YAML Document starts with ---
+# Comments start with #
+---
+
+### AWS S3 config
+bucket_name : your_s3_bucket_name
+aws_access_key : your_aws_access_key
+aws_secret_key : your_aws_secret_key
+region : ap-south-1
